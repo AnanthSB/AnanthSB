@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananth Shetty
 - 👀 I’m interested in coding web designing, web development, programming.
-- 🌱 Familiar with Python, HTML, CSS, Javascript, Jquery, Bootstrap and MS-Office.
+- 🌱 Familiar with Python, HTML, CSS, Javascript, Jquery, Bootstrap, React-JS, MS-Office.
 - 💞️ I’m looking to collaborate in web developement and backend proggraming, front end development and programming.
 - 📫 Reach me by, emailing  : ananth4sb@gmail.com,
                    linkedin : www.linkedin.com/in/ananth-shetty/
