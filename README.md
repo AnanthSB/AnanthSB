@@ -10,7 +10,7 @@
 
 ---------->  Get_in_Touch   <----------
 
-- Email: [ananth4sb@gmail.com](mailto:ananth4sb@gmail.com)
+- 📧 **Email:** [ananth4sb@gmail.com](mailto:ananth4sb@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth_Shetty-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ananth-shetty/)
 - [![GitHub](https://img.shields.io/badge/GitHub-AnanthSB-black?logo=github&style=social)](https://github.com/AnanthSB)
 
