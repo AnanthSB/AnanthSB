@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi, I'm Ananth, a passionate Front End Software Engineer specializing in React JS.
+👋 Hi, I'm Ananth, a passionate Front End Software Engineer specializing in **React JS**.
 
 ### Skill Set
 
