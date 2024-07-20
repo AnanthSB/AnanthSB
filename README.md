@@ -1,6 +1,16 @@
-- 👋 Hi, I’m Ananth
-- 👀 I am a React JS cum Front End Software Engineer.
-- 🌱 Skills-Set React-JS, Tailwind css, Bootstrap, Javascript, CSS, Jquery, Python and MS-Office.
-- 📫 Reach me by, emailing  : ananth4sb@gmail.com,
-                   linkedin : www.linkedin.com/in/ananth-shetty/
-                   github id: github.com/AnanthSB
+### About Me
+
+👋 Hi, I'm Ananth, a passionate Front End Software Engineer specializing in React JS.
+
+### Skill Set
+
+- Frontend Development: React-JS, Tailwind CSS, Bootstrap, JavaScript, CSS, jQuery
+- Programming Languages: Python
+- Tools: MS Office
+
+---------->  Get_in_Touch   <----------
+
+- Email: [ananth4sb@gmail.com](mailto:ananth4sb@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth_Shetty-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ananth-shetty/)
+- [![GitHub](https://img.shields.io/badge/GitHub-AnanthSB-black?logo=github&style=social)](https://github.com/AnanthSB)
+
