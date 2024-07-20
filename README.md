@@ -18,5 +18,5 @@
 ### Get in Touch
 
 - 📧 **Email:** [ananth4sb@gmail.com](mailto:ananth4sb@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth_Shetty-blue?logo=linkedin&style=social)]([https://www.linkedin.com/in/ananth-shetty/](https://www.linkedin.com/in/a%CE%B7%CE%B1%CE%B7%C6%9A%D4%8B-s%D0%BD%D1%94%D1%82%D1%82%D1%83-8ab243232/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananth_Shetty-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/a%CE%B7%CE%B1%CE%B7%C6%9A%D4%8B-s%D0%BD%D1%94%D1%82%D1%82%D1%83-8ab243232/)
 - [![GitHub](https://img.shields.io/badge/GitHub-AnanthSB-black?logo=github&style=social)](https://github.com/AnanthSB)
