@@ -4,7 +4,7 @@
 
 ### Skill Set
 
-- **Frontend Development:** React-JS, Tailwind CSS, Bootstrap, JavaScript, CSS, jQuery, Next.js, React Native
+- **Frontend Development:** React-JS, Next.js, React Native | Taiwind CSS, Bootstrap, CSS, SASS/LESS
 - **Backend Development:** Node.js, Express.js
 - **Database:** MongoDB
 - **Programming Languages:** Python
