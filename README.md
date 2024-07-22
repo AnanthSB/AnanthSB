@@ -13,7 +13,7 @@
 - **Unit Testing:** Jest Testing, Postman Collection
 - **API Development & Documentation Tools:** Swagger UI, Storybook
 - **Code Quality Tools:** Sonar, ESLint, Prettier
-- **Project Management Tools:** JIRA, Confluence, Figma
+- **Project Management Tools:** JIRA, Confluence, Github, Figma
 
 ### Get in Touch
 
